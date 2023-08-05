@@ -13,4 +13,4 @@ https://youtu.be/v5MwAqQTc6Q
 
 ### Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-SOVITS/blob/main/AI_Song_Cover_SOVITS.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aiprojectchiwa/clone_googledrive_model_to_huggingface/blob/main/Google%20Drive%20to%20Huggingface%20Model%20Cloner.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/aiprojectchiwa/clone_googledrive_model_to_huggingface/blob/main/Google%20Drive%20to%20Huggingface%20Model%20Cloner.ipynb)
