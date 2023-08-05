@@ -1,7 +1,7 @@
 # Clone Your AI Model from Google Drive Into Huggingface
 
 ## Leave A Star if This Repo Was Helpful
-[![ko-fi](https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg)](https://ko-fi.com/R6R7AH1FA)
+[![ko-fi](https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg) alt="Trakteer" height="35"> ](https://ko-fi.com/R6R7AH1FA)
 <a href="https://trakteer.id/ardha27">
     <img src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" alt="Trakteer" height="35">
 </a>
